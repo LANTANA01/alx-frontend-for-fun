@@ -55,7 +55,3 @@ This project is all about practicing css and having fun in the process. :smile:
 ![alt](images/menu_animation.gif)
 
 *You are not allowed to change the HTML.*
-
-## Author
-
-**Joshua Martinez** - [dantsub](https://github.com/dantsub) :octocat: | linkedIn: [danstub](www.linkedin.com/in/dantsub/) | Twitter: [@DanyJoshi](https://twitter.com/DanyJoshi)
